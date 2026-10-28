@@ -1,0 +1,10 @@
+{
+  "url_csv": "https://raw.githubusercontent.com/statsmodels/statsmodels/main/statsmodels/datasets/sunspots/sunspots.csv",
+  "documentacao": "https://www.statsmodels.org/stable/datasets/generated/sunspots.html",
+  "origem": "National Geophysical Data Center, distribuído pelo statsmodels",
+  "licenca": "Domínio público, conforme documentação do statsmodels",
+  "baixado_em": "2026-10-21",
+  "sha256": "f67889b1d9002cd5227f0e0ef54e35b419cdd85a31279adef6f73fb41e5c0a9b",
+  "frequencia": "Anual",
+  "periodo": "1700–2008"
+}
